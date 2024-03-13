@@ -1,4 +1,4 @@
-Write a C program to calculate Fibonacci Series up to n numbers
+// Write C program to calculate Fibonacci Series up to n numbers
 
 
 #include<stdio.h>
